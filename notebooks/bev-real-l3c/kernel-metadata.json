@@ -1,0 +1,16 @@
+{
+  "id": "canhquang/bev-real-l3c",
+  "title": "bev_real_l3c",
+  "code_file": "bev-real-l3c.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "machine_shape": "NvidiaTeslaT4",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "aadimator/nuscenes-mini"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

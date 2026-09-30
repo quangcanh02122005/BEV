@@ -1,0 +1,17 @@
+{
+  "id": "canhquang/bev-real-viz",
+  "title": "bev_real_viz",
+  "code_file": "bev-real-viz.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [
+    "aadimator/nuscenes-mini"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "canhquang/bev-real-l3c"
+  ]
+}

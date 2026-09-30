@@ -1,0 +1,20 @@
+{
+  "id": "canhquang/bev-real-train-b",
+  "title": "bev_real_train_b",
+  "code_file": "bev-real-train-b.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "machine_shape": "NvidiaTeslaT4",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "aadimator/nuscenes-mini"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "canhquang/bev-real-freeze",
+    "canhquang/bev-real-l3c",
+    "canhquang/bev-real-train-a"
+  ]
+}

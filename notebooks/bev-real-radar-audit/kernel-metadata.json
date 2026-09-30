@@ -1,0 +1,15 @@
+{
+  "id": "canhquang/bev-real-radar-audit",
+  "title": "bev_real_radar_audit",
+  "code_file": "bev-real-radar-audit.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [
+    "aadimator/nuscenes-mini"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

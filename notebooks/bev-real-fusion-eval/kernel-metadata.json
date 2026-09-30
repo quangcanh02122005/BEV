@@ -1,0 +1,20 @@
+{
+  "id": "canhquang/bev-real-fusion-eval",
+  "title": "bev_real_fusion_eval",
+  "code_file": "bev-real-fusion-eval.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [
+    "aadimator/nuscenes-mini"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "canhquang/bev-real-freeze",
+    "canhquang/bev-real-l3c",
+    "canhquang/bev-real-train-b",
+    "canhquang/bev-real-cr-infer"
+  ]
+}

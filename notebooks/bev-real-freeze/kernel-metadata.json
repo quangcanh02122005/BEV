@@ -1,0 +1,16 @@
+{
+  "id": "canhquang/bev-real-freeze",
+  "title": "bev_real_freeze",
+  "code_file": "bev-real-freeze.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "machine_shape": "NvidiaTeslaT4",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "aadimator/nuscenes-mini"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

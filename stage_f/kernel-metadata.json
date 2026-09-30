@@ -1,0 +1,18 @@
+{
+  "id": "canhquang/bev-real-occ",
+  "title": "bev_real_occ",
+  "code_file": "bev-real-occ.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "machine_shape": "NvidiaTeslaT4",
+  "enable_internet": "false",
+  "dataset_sources": [
+    "aadimator/nuscenes-mini"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "canhquang/bev-real-freeze"
+  ]
+}

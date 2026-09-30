@@ -1,0 +1,14 @@
+{
+  "id": "canhquang/bev-real-cr-env",
+  "title": "bev_real_cr_env",
+  "code_file": "bev-real-cr-env.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "machine_shape": "NvidiaTeslaT4",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

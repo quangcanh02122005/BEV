@@ -1,0 +1,32 @@
+# large or regenerable artifacts (checkpoints are tracked by checksum in models/CHECKPOINTS.sha256)
+*.pth
+*.npz
+*.tar.gz
+*.tar.zst
+**/out/
+*.env
+.env
+.venv_local/
+
+# Local nuScenes dataset (keep only the lightweight version marker)
+data/*
+!data/.v1.0-mini.txt
+
+# Generated Python caches and copied sensor samples
+__pycache__/
+*.py[cod]
+stage_e/data/samples/
+
+# Generated evaluation and visualization artifacts
+*.mat
+*.csv
+*.png
+*.log
+*.json
+frozen/
+exports/L3E/tables/
+stage_e/classical_out/
+stage_e/data/
+stage_*/results/
+stage_h/*.mat
+reports/local_runs/

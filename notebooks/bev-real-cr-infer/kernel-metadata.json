@@ -1,0 +1,19 @@
+{
+  "id": "canhquang/bev-real-cr-infer",
+  "title": "bev_real_cr_infer",
+  "code_file": "bev-real-cr-infer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "machine_shape": "NvidiaTeslaT4",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "aadimator/nuscenes-mini"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "canhquang/bev-real-cr-env",
+    "canhquang/bev-real-l3c"
+  ]
+}
